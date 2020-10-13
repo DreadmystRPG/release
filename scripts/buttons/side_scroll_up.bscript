@@ -1,0 +1,11 @@
+side_scroll_up
+side_scroll_up_idle.png
+side_scroll_up_hover.png
+side_scroll_up_press.png
+button_click_a.ogg
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)

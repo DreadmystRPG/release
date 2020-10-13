@@ -1,0 +1,8 @@
+
+image=npc_raider.png
+
+[stance]
+frames=1
+duration=1s
+type=looped
+frame=0,0,0,0,22,53,12,48

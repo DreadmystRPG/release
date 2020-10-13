@@ -1,0 +1,10 @@
+toolbar_inventory
+toolbar_inventory_idle.png
+toolbar_inventory_hover.png
+toolbar_inventory_press.png
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)

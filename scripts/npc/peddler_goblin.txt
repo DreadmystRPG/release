@@ -1,0 +1,11 @@
+
+image=npc_peddler_goblin.png
+
+[stance]
+frames=4
+duration=850ms
+type=back_forth
+frame=0,0,0,0,39,41,8,48
+frame=1,0,39,0,37,41,5,47
+frame=2,0,76,0,37,41,6,46
+frame=3,0,113,0,35,41,6,45

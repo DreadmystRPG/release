@@ -1,0 +1,9 @@
+MoveUp
+MoveDown
+MoveLeft
+MoveRight
+Inventory
+Equipment
+QuestLog
+SpellBook
+Social

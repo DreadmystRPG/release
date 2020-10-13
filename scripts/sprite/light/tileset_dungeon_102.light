@@ -1,0 +1,17 @@
+tileset_dungeon_102.png
+4294901797
+-10
+-50
+100
+0
+1
+0.5
+
+#Texture
+#Color 32 bit int (includes alpha)
+#OffsetX
+#OffsetY
+#Intensity 0-100
+#Bool to apply color to the ground
+#Bool to apply color on top of everything
+#Scale
