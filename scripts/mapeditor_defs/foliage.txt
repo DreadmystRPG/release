@@ -1,2 +1,0 @@
-water_cell_tile.png
-water_shallow.png
