@@ -1,0 +1,1 @@
+Represents how ofen you can perform a melee attack.

@@ -1,0 +1,1 @@
+Allows you recover health points when out of combat.

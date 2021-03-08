@@ -1,0 +1,1 @@
+Improves your effectiveness with Shields. The value of your shield skill is compared against your opponent's weapon skill to determine bonuses to block chance.

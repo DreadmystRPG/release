@@ -1,0 +1,13 @@
+Modifies the base duration value
+
+Keywords:
+	value = the base value
+	clvl = the caster's level
+	splvl = the spell's level
+	
+Example formulas
+	clvl*10
+	10*(clvl+splvl)
+
+Allowed operators: + - / *
+No spaces for formulas

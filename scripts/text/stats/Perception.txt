@@ -1,0 +1,1 @@
+Improves your ability to reveal an enemy's stats with Inspect. Generally, your total perception must be higher than your target's level.

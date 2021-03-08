@@ -1,0 +1,11 @@
+options_logout
+options_logout_idle.png
+options_logout_hover.png
+options_logout_press.png
+button_change_a.ogg
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)

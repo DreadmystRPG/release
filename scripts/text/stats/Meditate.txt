@@ -1,0 +1,1 @@
+Recovers mana over time, most effectively when out of combat.

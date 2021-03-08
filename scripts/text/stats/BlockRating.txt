@@ -1,0 +1,1 @@
+Improves your chance to Block melee and ranged attacks and abilities when wearing a Shield. At level one you need one rating for a 1% increased chance. Blocking an attack reduces its damage by two thirds.

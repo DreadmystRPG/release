@@ -1,0 +1,10 @@
+create_class
+create_class_idle.png
+create_class_hover.png
+create_class_press.png
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)

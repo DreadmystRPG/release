@@ -1,0 +1,13 @@
+The server will scale the strength of this effect according to the formula that you write
+
+Keywords:
+	value = the base value
+	clvl = the caster's level
+	splvl = the spell's level
+	
+Example formulas
+	clvl*value
+	value*(clvl+splvl)
+
+Allowed operators: + - / *
+No spaces for formulas

@@ -1,0 +1,1 @@
+Represents the amount of damage you can take before dying.

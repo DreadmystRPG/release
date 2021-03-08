@@ -1,0 +1,11 @@
+ratio=1
+size=128
+filename=gowaypoint
+loopstart=1
+loopend=4
+delay=100
+
+1,64,102
+2,64,102
+3,64,102
+4,64,102

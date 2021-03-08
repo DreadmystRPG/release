@@ -1,0 +1,1 @@
+Improves the prices offered to you by merchants when buying or selling items.

@@ -1,0 +1,1 @@
+Improves your chance to Parry melee attacks and abilities with your weapon. Parrying an attack reduces its damage by half.

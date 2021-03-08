@@ -1,0 +1,1 @@
+Allows you to open locked chests, doors and other objects. A higher skill is required for higher level objects.

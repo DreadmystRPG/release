@@ -1,0 +1,1 @@
+sand_cell_tile.png

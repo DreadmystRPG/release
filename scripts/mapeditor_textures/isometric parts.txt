@@ -1,0 +1,14 @@
+barricade01.png
+barricade02.png
+barricade03.png
+barricade04.png
+barricade05.png
+barricade06.png
+statue1-01.png
+statue1-02.png
+statue1-03.png
+statue1-04.png
+statue2-01.png
+statue2-02.png
+statue2-03.png
+statue2-04.png

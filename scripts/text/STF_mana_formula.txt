@@ -1,0 +1,12 @@
+You can write just a regular integer here or write a formula if you want
+
+Keywords:
+	clvl = the caster's level
+	splvl = the spell's level
+	
+Example formulas
+	clvl*10
+	10*(clvl+splvl)
+
+Allowed operators: + - / *
+No spaces for formulas

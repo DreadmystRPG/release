@@ -1,0 +1,11 @@
+console_enter_button
+console_enter_button_idle.png
+console_enter_button_hover.png
+console_enter_button_press.png
+button_click_a.ogg
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)

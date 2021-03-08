@@ -1,0 +1,1 @@
+The value of your skill is compared against your opponent's to determine parry chance and bonus to damage while using Wands.
