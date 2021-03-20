@@ -93,18 +93,6 @@ AM154-011-Cassia_Bakeriana.H10.2k.png
 AM154-011-Cassia_Bakeriana.H12.2k.png
 AM154-011-Cassia_Bakeriana.H14.2k.png
 AM154-011-Cassia_Bakeriana.H16.2k.png
-AM154-019-Cupressoncyparis_Leylandii.G02.2k.png
-AM154-019-Cupressoncyparis_Leylandii.G02.2k_1.png
-AM154-019-Cupressoncyparis_Leylandii.G06.2k.png
-AM154-019-Cupressoncyparis_Leylandii.G08.2k.png
-AM154-019-Cupressoncyparis_Leylandii.G10.2k.png
-AM154-019-Cupressoncyparis_Leylandii.G12.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H01.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H03.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H05.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H06.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H13.2k.png
-AM154-019-Cupressoncyparis_Leylandii.H15.2k.png
 AM154-050-Populus_Alba_Pyramidalis.G02.2k.png
 AM154-050-Populus_Alba_Pyramidalis.G08.2k.png
 AM154-050-Populus_Alba_Pyramidalis.G10.2k.png
@@ -213,11 +201,6 @@ Avicennia_Tree_04.G12.png
 Avicennia_Tree_04.G15.png
 Avicennia_Tree_04.G16.png
 Avicennia_Tree_04.G16_1.png
-Bay_Laurel_Tree.H05.png
-Bay_Laurel_Tree.H07.png
-Bay_Laurel_Tree.H08.png
-Bay_Laurel_Tree.H12.png
-Bay_Laurel_Tree.H14.png
 
 Canadian_Poplar_Tree.G01.png
 Canadian_Poplar_Tree.G03.png

@@ -8,6 +8,7 @@ npc_models
 spell_visual
 player_exp_levels
 gossip_option
+gossip
 quest_template
 spell_visual
 zone_template
@@ -17,3 +18,4 @@ map
 item_template
 affix_template
 item_gems
+scripts

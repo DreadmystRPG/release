@@ -1,1 +1,1 @@
-Allows you recover health points when out of combat.
+Recovers health over time, adding a fifth of this value every five seconds when out of combat, and one third of that while in combat.

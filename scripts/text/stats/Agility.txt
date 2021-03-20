@@ -1,1 +1,1 @@
-Improves the damage you deal with Ranged Weapons and increases the value of other combat skills and stats. Half of your total agility is applied to total Ranged Value.
+Increases the value of other combat skills/stats and improves the damage you deal with Ranged Weapons. Half of your total strength is applied to total Ranged Value.

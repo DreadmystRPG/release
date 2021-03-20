@@ -40,7 +40,7 @@ frame=3,7,429,866,38,58,20,49
 
 [shoot]
 frames=4
-duration=800ms
+duration=400ms
 type=play_once
 frame=0,0,421,601,49,59,27,53
 frame=0,1,206,498,46,59,24,54

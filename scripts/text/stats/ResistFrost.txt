@@ -1,1 +1,1 @@
-Reduces the damage taken by Frost magical damage.
+Gives you a chance to take half Frost damage. At level one you need one rating for a 1% chance.

@@ -1,9 +1,9 @@
 ratio=1
-size=45
+size=75
 filename=quest_ready
 loopstart=1
 loopend=30
-delay=35
+delay=50
 
 1,0,0
 2,0,0

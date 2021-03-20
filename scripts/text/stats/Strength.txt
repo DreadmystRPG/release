@@ -1,1 +1,1 @@
-Improves the damage you deal with Melee Weapons and increases the value of other combat skills and stats. Half of your total strength is applied to total Weapon Value.
+Increases the value of other combat skills/stats and improves the damage you deal with Melee Weapons. Half of your total strength is applied to total Weapon Value.
