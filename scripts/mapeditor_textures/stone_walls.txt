@@ -18,3 +18,6 @@ Stonewallwrecked5.png
 Stonewallwrecked6.png
 Stonewallwrecked7.png
 Stonewallwrecked8.png
+rockwall1gray.png
+rockwall2gray.png
+rockwall3gray.png
