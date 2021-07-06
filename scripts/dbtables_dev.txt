@@ -1,2 +1,4 @@
 scripts
 loot
+npc_vendor
+npc_vendor_random

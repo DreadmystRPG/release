@@ -1,0 +1,13 @@
+ratio=4
+size=192
+filename=wind_003a
+loopstart=6
+loopend=6
+delay=50
+
+1,21,115
+2,30,110
+3,20,103
+4,16,96
+5,28,88
+6,36,79

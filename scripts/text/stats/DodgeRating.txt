@@ -1,1 +1,1 @@
-Improves your chance to Dodge melee and ranged attacks and abilities. At level one you need one rating for a 1% increased chance. Dodging an attack avoids its damage entirely.
+Improves your chance to Dodge melee and ranged attacks and abilities. At level one you need one rating for a 1% increased chance. Dodging an avoids an attack entirely.
