@@ -1,0 +1,11 @@
+sort_inventory
+sort_inventory_idle.png
+sort_inventory_hover.png
+sort_inventory_press.png
+button_click_a.ogg
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)
