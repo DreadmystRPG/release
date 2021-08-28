@@ -19,3 +19,4 @@ item_template
 affix_template
 item_gems
 scripts
+gameobject

@@ -1,0 +1,11 @@
+waypoint_activate
+waypoint_activate_idle.png
+waypoint_activate_hover.png
+waypoint_activate_idle.png
+button_click_a.ogg
+
+# Name
+# Idle Texture
+# Hover Texture
+# Press Texture
+# Click Sound (Optional)
