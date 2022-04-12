@@ -29,14 +29,14 @@ mat4 saturationMatrix( float saturation )
                  0, 0, 0, 1 );
 }
 
-void main( out vec4 fragColor, in vec2 fragCoord ) 
+void main() 
 {
 	const float brightness = -0.05;
 	const float saturation = 0.5;
 	
 	vec4 color = texture2D(texture, gl_TexCoord[0].xy);
     
-	fragColor =  brightnessMatrix( brightness ) *
+	gl_FragColor =  brightnessMatrix( brightness ) *
         		saturationMatrix( saturation ) *
         		color;
 

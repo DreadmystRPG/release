@@ -1,1 +1,1 @@
-Improves most combat stats and the effectiveness of certain abilities.
+Increases the value of Combat/Skill stats and the effectiveness of certain abilities.

@@ -4,7 +4,7 @@ uniform float colorG;
 uniform float colorB;
 uniform float colorA;
 
-void main( out vec4 fragColor, in vec2 fragCoord ) 
+void main() 
 {	
 	vec4 pixel = texture2D(texture, gl_TexCoord[0].xy);
 	

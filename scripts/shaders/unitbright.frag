@@ -10,13 +10,13 @@ mat4 brightnessMatrix( float b)
                  b, b, b, 1 );
 }
 
-void main( out vec4 fragColor, in vec2 fragCoord ) 
+void main() 
 {	
 	vec4 color = texture2D(texture, gl_TexCoord[0].xy);
     
-	fragColor =  brightnessMatrix( brightness ) *
+	gl_FragColor =  brightnessMatrix( brightness ) *
         		color;
 				
-	fragColor.a *= alpha;
+	gl_FragColor.a *= alpha;
 
 }

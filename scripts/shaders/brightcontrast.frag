@@ -90,7 +90,7 @@ vec3 blendHardMix(vec3 base, vec3 blend, float opacity) {
 }
 
 
-void main( out vec4 fragColor, in vec2 fragCoord ) 
+void main() 
 {
 	const float brightness = 0.0;
 	const float contrast = 1.19;
@@ -115,7 +115,7 @@ void main( out vec4 fragColor, in vec2 fragCoord )
 	color.g = finalBase.g;
 	color.b = finalBase.b;
     
-	fragColor =  brightnessMatrix( brightness ) *
+	gl_FragColor =  brightnessMatrix( brightness ) *
         		contrastMatrix( contrast ) * 
         		saturationMatrix( saturation ) *
         		color;
