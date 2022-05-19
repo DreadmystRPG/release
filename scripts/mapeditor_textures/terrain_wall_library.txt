@@ -1,0 +1,8 @@
+wallBooks_E.png
+wallBooks_N.png
+wallBooks_S.png
+wallBooks_W.png
+wallDoorway_E.png
+wallDoorway_N.png
+wallDoorway_S.png
+wallDoorway_W.png

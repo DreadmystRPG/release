@@ -6,5 +6,4 @@ Inventory
 Equipment
 QuestLog
 SpellBook
-Social
 Map

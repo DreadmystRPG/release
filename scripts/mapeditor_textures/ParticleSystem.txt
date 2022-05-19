@@ -1,3 +1,0 @@
-green_firefly.psi
-fog_cloud.psi
-blue_magic_ball.psi

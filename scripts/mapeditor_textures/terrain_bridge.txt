@@ -1,0 +1,8 @@
+bridgeBroken_E.png
+bridgeBroken_N.png
+bridgeBroken_S.png
+bridgeBroken_W.png
+bridge_E.png
+bridge_N.png
+bridge_S.png
+bridge_W.png

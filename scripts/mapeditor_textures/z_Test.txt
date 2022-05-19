@@ -1,9 +1,0 @@
-AM124-003-Echinochloa_Crus-Galli_03.G03.png
-AM124-003-Echinochloa_Crus-Galli_03.G12.png
-AM124-003-Echinochloa_Crus-Galli_03.G16.png
-AM124-003-Echinochloa_Crus-Galli_03.H09.png
-AM124-058-Phragmites_Australis_01.G01.png
-AM124-058-Phragmites_Australis_01.G09.png
-AM124-058-Phragmites_Australis_01.G10.png
-AM124-058-Phragmites_Australis_01.G13.png
-AM124-058-Phragmites_Australis_01.G15.png
